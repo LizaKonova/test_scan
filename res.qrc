@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/cancel_icon.png</file>
+        <file>res/device_scanner_icon.png</file>
+        <file>res/pennant_on.png</file>
+        <file>res/pennant.png</file>
+        <file>res/setup_icon.png</file>
+        <file>res/setup_utility_tools.png</file>
+    </qresource>
+</RCC>
